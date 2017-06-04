@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\AIDLWork\serverapp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\CODE\GITHUB\AIDLWork\serverapp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1a0d6d5d666ea34a05c12500e9dcf96b194dfa52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\AIDLWork\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\CODE\GITHUB\AIDLWork\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_98b9fa5365b78c0f508743da7aba2a2753b1f535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\AIDLWork\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d6c818ce0ba78cf3a271aaf4ff5f42b34216c5">
+        <dex dex="F:\CODE\GITHUB\AIDLWork\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_32c2ac93fd5eb432b6af301aa78dc2fa38fb3198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CODE\GITHUB\AIDLWork\serverapp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8932e473b9451de9a567eb384becd3e4fcb0407f">
+        <dex dex="F:\CODE\GITHUB\AIDLWork\serverapp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_52c845effe1bfddf7eff1a543d4c1d409ea09bb7\classes.dex" />
+    </item>
+
+</items>
